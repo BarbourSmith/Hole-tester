@@ -4,3 +4,6 @@
 
 ![](/project.svg)
 
+<h3 style="font-size:20px;"><strong>Edge Cut:</strong></h3>Bigger shift over makes the shaft bigger
+
+
